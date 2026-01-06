@@ -63,6 +63,8 @@ I focus on writing **clean, scalable, and secure code**, and enjoy working acros
 🔗 **Repository:**  
 https://github.com/Vedant11054/technex-frontend
 
+🌐**Link:**https://technexsvpcet.com
+
 ---
 
 ### 🕶️ Cyberpunk-Themed Event Website (Departmental Event)
@@ -71,6 +73,9 @@ https://github.com/Vedant11054/technex-frontend
 - Developed a **cyberpunk-themed event website**
 - Focused on **UI/UX, animations, and responsiveness**
 - Delivered an immersive and visually engaging user experience
+🔗 **Repository:**  
+https://github.com/Vedant11054/cyberpunk_final
+🌐**Link:**https://csecs.in
 
 ---
 
