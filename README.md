@@ -65,7 +65,7 @@ https://github.com/Vedant11054/technex-frontend
 
 ---
 
-### 🕶️ Hackers Heist (Cyberpunk Theme)
+### 🕶 cyberpunk website (departmental event)
 **Role:** Technical Head  
 
 - Developed a **cyberpunk-themed event website**
