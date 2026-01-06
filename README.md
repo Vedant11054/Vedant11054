@@ -62,13 +62,6 @@ I enjoy turning ideas into scalable, user-friendly products and love working on 
 
 ---
 
-### 🎮 Gameathon / Gamers Conquest
-🔹 Online + Hybrid event platform  
-🔹 Registration system & admin dashboard  
-🔹 Real-time data handling  
-
----
-
 ## 🏆 Achievements & Experience
 
 - 🥇 **Technical Head & Team Lead** at multiple college events  
