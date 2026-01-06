@@ -2,19 +2,18 @@
 
 🎓 **B.Tech in Computer Science (Cybersecurity)**  
 💻 **Full-Stack Web Developer | Cybersecurity Enthusiast**  
-  
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a passionate full-stack developer with hands-on experience in building **real-world web applications** and **event platforms**.  
-I enjoy turning ideas into scalable, user-friendly products and love working on both **frontend & backend**.
+I’m a passionate **full-stack web developer** with hands-on experience in building **real-world web applications**, **event platforms**, and **admin dashboards**.  
+I enjoy transforming ideas into **scalable, secure, and user-friendly products**, working confidently across both frontend and backend.
 
-- 🔭 Currently exploring **Advanced Full-Stack & Cybersecurity**
-- 🌱 Learning **Backend Optimization & Secure Web Apps**
-- 👥 Experienced in **Team Leadership & Project Management**
-- ⚡ Believe in *learning by building*
+- 🔭 Exploring **Advanced Full-Stack Development & Cybersecurity**
+- 🌱 Learning **Backend Optimization, Secure APIs & System Design**
+- 👥 Strong experience in **Team Leadership & Project Management**
+- ⚡ Philosophy: *Learn by building, improve by breaking*
 
 ---
 
@@ -24,14 +23,14 @@ I enjoy turning ideas into scalable, user-friendly products and love working on 
 - HTML5, CSS3, JavaScript  
 - React.js, Next.js  
 - Tailwind CSS, Bootstrap  
-- Framer Motion
+- Framer Motion  
 
 ### 🧠 Backend
 - Node.js  
 - Express.js (Basics)  
-- REST APIs  
+- RESTful APIs  
 
-### 🗄️ Database
+### 🗄️ Databases
 - MongoDB  
 - MySQL  
 
@@ -39,35 +38,38 @@ I enjoy turning ideas into scalable, user-friendly products and love working on 
 - Git & GitHub  
 - Postman  
 - VS Code  
-- Railway / Vercel  
-- Figma (UI Reference)
+- Railway, Vercel  
+- Figma (UI/UX Reference)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🎉 TECHNEX – College Tech Fest Website
-🔹 Role: **Team Lead + Full-Stack Developer**  
-🔹 Built complete event website with registration & admin dashboard  
-🔹 Managed frontend, backend, and deployment  
+**Role:** Team Lead & Full-Stack Developer  
+- Developed a complete event platform with **registrations & admin dashboard**
+- Worked on **frontend, backend logic, and deployment**
+- Led a team and coordinated technical execution  
 
-👉 Repo: [Technex Website](https://github.com/Vedant11054/technex-frontend)
+👉 **Repository:**  
+🔗 https://github.com/Vedant11054/technex-frontend
 
 ---
 
 ### 🕶️ Hackers Heist (Cyberpunk Theme)
-🔹 Role: **Technical Head**  
-🔹 Cyberpunk-style event website  
-🔹 Focus on UI/UX, animations & responsiveness  
+**Role:** Technical Head  
+- Designed and developed a **cyberpunk-themed event website**
+- Focused on **UI/UX, animations, and responsive design**
+- Delivered a visually immersive and smooth user experience  
 
 ---
 
 ## 🏆 Achievements & Experience
 
-- 🥇 **Technical Head & Team Lead** at multiple college events  
-- 📜 Certified in **Web Development & Cybersecurity Basics**  
-- 🤝 Strong coordination with faculty & HOD for internships/events  
-- 🧠 Practical experience > Theoretical learning  
+- 🥇 **Technical Head & Team Lead** for multiple college-level events  
+- 📜 Certified in **Web Development & Cybersecurity Fundamentals**  
+- 🤝 Strong coordination with **faculty & HOD** for internships and events  
+- 🧠 Strong believer in **practical, project-based learning**
 
 ---
 
@@ -82,9 +84,9 @@ I enjoy turning ideas into scalable, user-friendly products and love working on 
 
 ## 🌐 Connect With Me
 
-- 📧 Email: **vedantghubade04@gmail.com**
-- 💼 LinkedIn: *https://in.linkedin.com/in/vedant-ghubade-96b734273*
-- 🌍 Portfolio: *under progress*
+- 📧 **Email:** vedantghubade04@gmail.com  
+- 💼 **LinkedIn:** https://in.linkedin.com/in/vedant-ghubade-96b734273  
+- 🌍 **Portfolio:** *Under Progress*  
 
 ---
 
@@ -92,19 +94,4 @@ I enjoy turning ideas into scalable, user-friendly products and love working on 
 
 > *“Code is not just written — it’s engineered.”*
 
-⭐ If you like my work, consider starring my repositories!
-
-<!--
-**Vedant11054/Vedant11054** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ If you like my work, consider starring ⭐ my repositories!
