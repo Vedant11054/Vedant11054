@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Vedant Ghubade
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Cybersecurity+Enthusiast;B.Tech+CSE+(Cybersecurity);Learning+by+Building" alt="Typing SVG" />
+</p>
+
 🎓 **B.Tech in Computer Science (Cybersecurity)**  
 💻 **Full-Stack Web Developer | Cybersecurity Enthusiast**  
 
@@ -7,39 +11,42 @@
 
 ## 👨‍💻 About Me
 
-I’m a passionate **full-stack web developer** with hands-on experience in building **real-world web applications**, **event platforms**, and **admin dashboards**.  
-I enjoy transforming ideas into **scalable, secure, and user-friendly products**, working confidently across both frontend and backend.
+I’m a **motivated full-stack web developer** with hands-on experience in building **production-ready web applications**, **event platforms**, and **admin dashboards**.
 
-- 🔭 Exploring **Advanced Full-Stack Development & Cybersecurity**
-- 🌱 Learning **Backend Optimization, Secure APIs & System Design**
-- 👥 Strong experience in **Team Leadership & Project Management**
-- ⚡ Philosophy: *Learn by building, improve by breaking*
+I focus on writing **clean, scalable, and secure code**, and I enjoy working across the **entire development lifecycle** — from UI design to backend logic and deployment.
+
+- 🔭 Actively seeking **Internships in Full-Stack / Web Development**
+- 🌱 Learning **Secure Backend Systems & API Design**
+- 👥 Proven **Team Lead** with real event & project experience
+- ⚡ *Strong believer in practical, project-based learning*
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
-- HTML5, CSS3, JavaScript  
-- React.js, Next.js  
-- Tailwind CSS, Bootstrap  
-- Framer Motion  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🧠 Backend
-- Node.js  
-- Express.js (Basics)  
-- RESTful APIs  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
 
 ### 🗄️ Databases
-- MongoDB  
-- MySQL  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ⚙️ Tools & Platforms
-- Git & GitHub  
-- Postman  
-- VS Code  
-- Railway, Vercel  
-- Figma (UI/UX Reference)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge)
 
 ---
 
@@ -47,29 +54,32 @@ I enjoy transforming ideas into **scalable, secure, and user-friendly products**
 
 ### 🎉 TECHNEX – College Tech Fest Website
 **Role:** Team Lead & Full-Stack Developer  
-- Developed a complete event platform with **registrations & admin dashboard**
-- Worked on **frontend, backend logic, and deployment**
-- Led a team and coordinated technical execution  
 
-👉 **Repository:**  
-🔗 https://github.com/Vedant11054/technex-frontend
+- Built a **complete event management platform**
+- Implemented **registrations, dashboards, and admin workflows**
+- Handled **frontend, backend integration, and deployment**
+- Led a technical team and ensured on-time delivery  
+
+🔗 **Repo:**  
+https://github.com/Vedant11054/technex-frontend
 
 ---
 
 ### 🕶️ Hackers Heist (Cyberpunk Theme)
 **Role:** Technical Head  
-- Designed and developed a **cyberpunk-themed event website**
-- Focused on **UI/UX, animations, and responsive design**
-- Delivered a visually immersive and smooth user experience  
+
+- Developed a **cyberpunk-themed event website**
+- Focused on **UI/UX, animations, and responsiveness**
+- Delivered an immersive and engaging user experience  
 
 ---
 
 ## 🏆 Achievements & Experience
 
-- 🥇 **Technical Head & Team Lead** for multiple college-level events  
+- 🥇 **Technical Head & Team Lead** for multiple college-level tech events  
 - 📜 Certified in **Web Development & Cybersecurity Fundamentals**  
-- 🤝 Strong coordination with **faculty & HOD** for internships and events  
-- 🧠 Strong believer in **practical, project-based learning**
+- 🤝 Strong coordination with **faculty & HOD** for internships and approvals  
+- 🧠 Hands-on experience > theoretical-only learning  
 
 ---
 
@@ -92,6 +102,6 @@ I enjoy transforming ideas into **scalable, secure, and user-friendly products**
 
 ## ✨ Fun Fact
 
-> *“Code is not just written — it’s engineered.”*
+> *“I don’t just code for output — I code for impact.”*
 
-⭐ If you like my work, consider starring ⭐ my repositories!
+⭐ If you like my work, feel free to **star ⭐ my repositories**
