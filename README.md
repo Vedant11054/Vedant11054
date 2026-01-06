@@ -51,7 +51,7 @@ I enjoy turning ideas into scalable, user-friendly products and love working on 
 🔹 Built complete event website with registration & admin dashboard  
 🔹 Managed frontend, backend, and deployment  
 
-👉 Repo: [Technex Website](https://github.com/Vedant11054/technex_frontend)
+👉 Repo: [Technex Website](https://github.com/Vedant11054/technex-frontend)
 
 ---
 
@@ -84,7 +84,7 @@ I enjoy turning ideas into scalable, user-friendly products and love working on 
 
 - 📧 Email: **vedantghubade04@gmail.com**
 - 💼 LinkedIn: *https://in.linkedin.com/in/vedant-ghubade-96b734273*
-- 🌍 Portfolio: *(Add your portfolio link here)*
+- 🌍 Portfolio: *under progress*
 
 ---
 
