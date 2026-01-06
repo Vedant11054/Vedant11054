@@ -5,7 +5,7 @@
 </p>
 
 🎓 **B.Tech in Computer Science (Cybersecurity)**  
-💻 **Full-Stack Web Developer | Cybersecurity Enthusiast**  
+💻 **Full-Stack Web Developer | Cybersecurity Enthusiast**
 
 ---
 
@@ -13,11 +13,11 @@
 
 I’m a **motivated full-stack web developer** with hands-on experience in building **production-ready web applications**, **event platforms**, and **admin dashboards**.
 
-I focus on writing **clean, scalable, and secure code**, and I enjoy working across the **entire development lifecycle** — from UI design to backend logic and deployment.
+I focus on writing **clean, scalable, and secure code**, and enjoy working across the **entire development lifecycle** — from UI design to backend logic and deployment.
 
 - 🔭 Actively seeking **Internships in Full-Stack / Web Development**
 - 🌱 Learning **Secure Backend Systems & API Design**
-- 👥 Proven **Team Lead** with real event & project experience
+- 👥 Proven **Team Lead** with real-world event & project experience
 - ⚡ *Strong believer in practical, project-based learning*
 
 ---
@@ -30,12 +30,12 @@ I focus on writing **clean, scalable, and secure code**, and I enjoy working acr
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🧠 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -53,33 +53,33 @@ I focus on writing **clean, scalable, and secure code**, and I enjoy working acr
 ## 🚀 Featured Projects
 
 ### 🎉 TECHNEX – College Tech Fest Website
-**Role:** Team Lead & Full-Stack Developer  
+**Role:** Team Lead & Full-Stack Developer
 
 - Built a **complete event management platform**
-- Implemented **registrations, dashboards, and admin workflows**
-- Handled **frontend, backend integration, and deployment**
-- Led a technical team and ensured on-time delivery  
+- Implemented **registrations, admin dashboards, and workflows**
+- Managed **frontend, backend integration, and deployment**
+- Led a technical team and ensured timely delivery
 
-🔗 **Repo:**  
+🔗 **Repository:**  
 https://github.com/Vedant11054/technex-frontend
 
 ---
 
-### 🕶 cyberpunk website (departmental event)
-**Role:** Technical Head  
+### 🕶️ Cyberpunk-Themed Event Website (Departmental Event)
+**Role:** Technical Head
 
 - Developed a **cyberpunk-themed event website**
 - Focused on **UI/UX, animations, and responsiveness**
-- Delivered an immersive and engaging user experience  
+- Delivered an immersive and visually engaging user experience
 
 ---
 
 ## 🏆 Achievements & Experience
 
-- 🥇 **Technical Head & Team Lead** for multiple college-level tech events  
-- 📜 Certified in **Web Development & Cybersecurity Fundamentals**  
-- 🤝 Strong coordination with **faculty & HOD** for internships and approvals  
-- 🧠 Hands-on experience > theoretical-only learning  
+- 🥇 **Technical Head & Team Lead** for multiple college-level tech events
+- 📜 Certified in **Web Development & Cybersecurity Fundamentals**
+- 🤝 Strong coordination with **faculty & HOD** for internships and approvals
+- 🧠 Strong emphasis on **hands-on, practical learning**
 
 ---
 
@@ -96,7 +96,7 @@ https://github.com/Vedant11054/technex-frontend
 
 - 📧 **Email:** vedantghubade04@gmail.com  
 - 💼 **LinkedIn:** https://in.linkedin.com/in/vedant-ghubade-96b734273  
-- 🌍 **Portfolio:** *Under Progress*  
+- 🌍 **Portfolio:** *Under Progress*
 
 ---
 
