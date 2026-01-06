@@ -2,7 +2,7 @@
 
 🎓 **B.Tech in Computer Science (Cybersecurity)**  
 💻 **Full-Stack Web Developer | Cybersecurity Enthusiast**  
-🚀 Tech Lead @ **TECHNEX (College Tech Fest)**  
+  
 
 ---
 
