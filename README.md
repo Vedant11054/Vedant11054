@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Cybersecurity+Enthusiast;B.Tech+CSE+(Cybersecurity);Learning+by+Building" alt="Typing SVG" />
 </p>
 
+<a href="#"><img width="100%" height="auto" src="./web-developer.gif" height="175px"/></a>
+
 🎓 **B.Tech in Computer Science (Cybersecurity)**  
 💻 **Full-Stack Web Developer | Cybersecurity Enthusiast**
 
